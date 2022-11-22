@@ -24,7 +24,7 @@ jobs:
     name: Integration Testing
     runs-on: ubuntu-latest
     steps:
-      # MicroSensor Analysis
+      # MicroSensor Analysis 
       - name: Perform static source code analysis
         uses: microsensorproject/microsensor@development
 
