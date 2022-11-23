@@ -25,7 +25,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # MicroSensor Analysis
-
       - name: Perform static source code analysis
         uses: microsensorproject/microsensor@development
 
